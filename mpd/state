@@ -1,0 +1,13 @@
+audio_device_state:1:mpd
+state: stop
+random: 0
+repeat: 1 
+crossfade: 10
+playlist_begin
+0:Capsulas/Flujos-vivos.ogg
+1:Capsulas/Haz_radio_1.ogg
+2:Capsulas/Haz_radio_2.ogg
+3:Capsulas/Haz_radio_3.ogg
+4:Capsulas/Un_red_lleno_de_DJs_version_corta.ogg
+5:Capsulas/Un_red_lleno_de_DJs_version_larga.ogg
+playlist_end

@@ -1,0 +1,11 @@
+Package: fv-desktop
+Version: 0.1
+Architecture: all
+Maintainer: Flujos-Vivos <laboratorios@radio.flujos.org. >
+Installed-Size: 32
+Depends: xfce4, djvulibre-plugin
+Section: grafics
+Priority: extra
+Homepage: http://radio.flujos.org/
+Description: Flujos Vivos Desktop
+ fv-desktop is part of Flujos Vivos. It contains Desktop grafics and settings.

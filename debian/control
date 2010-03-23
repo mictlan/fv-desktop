@@ -1,0 +1,16 @@
+Source: fv-desktop
+Section: grafics
+Priority: extra
+Maintainer: Flujos-Vivos <laboratorios@radio.flujos.org. >
+Uploaders: Mictlan Tecutli <mictlan@acervo.org>
+Build-Depends: debhelper (>= 5), cdbs, pngquant
+Standards-Version: 3.7.3
+Homepage: http://radio.flujos.org/
+Vcs-Browser: http://github.com/mictlan/fv-desktop.git
+Vcs-Git: git://github.com/mictlan/fv-desktop.git
+
+Package: fv-desktop
+Architecture: all
+Depends: xfce4, djvulibre-plugin
+Description: Flujos Vivos Desktop 
+ fv-desktop is part of Flujos Vivos. It contains Desktop grafics and settings.
