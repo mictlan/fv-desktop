@@ -1,0 +1,15 @@
+    update-alternatives --install \
+        /usr/share/images/desktop-base/desktop-background \
+        desktop-background \
+        /usr/share/images/desktop-base/flujos-cableado-wallpaper.svg 60
+
+    update-alternatives --install \
+        /usr/share/images/desktop-base/desktop-background \
+        desktop-background \
+        /usr/share/images/desktop-base/flujos-cableado-wallpaper.png 55
+
+    update-alternatives --install \
+        /usr/share/images/desktop-base/desktop-splash \
+        desktop-splash \
+        /usr/share/images/desktop-base/flujos-moreblue-orbit-splash.png 50
+
